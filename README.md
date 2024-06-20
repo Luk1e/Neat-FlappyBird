@@ -60,13 +60,7 @@ Contains the static resources for the game:
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   cd NEAT-Flappy-Bird
-   ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
